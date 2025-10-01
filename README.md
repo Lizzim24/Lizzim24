@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on MSc Connected Environments studying at UCL, focusing on IoT.<br>👯 I’m looking to collaborate on web development, connected IoT systems, and creative data visualisation projects.<br>🤔 I’m looking for help with IoT related, scalable backend architectures.<br>🌱 I’m currently learning Sensor data processing, web architecture (frontend).<br>💬 Ask me about: MySQL, React, python, java.<br>⚡ Fun fact: I love observing real-world phenomena  and finding ways to improve them.<br>
+🔭 I’m currently working on MSc Connected Environments study at UCL, focusing on IoT.<br>👯 I’m looking to collaborate on web development, connected IoT systems, and creative data visualisation projects.<br>🤔 I’m looking for help with IoT related, scalable backend architectures.<br>🌱 I’m currently learning Sensor data processing, web architecture (frontend).<br>💬 Ask me about: MySQL, React, python, java.<br>⚡ Fun fact: I love observing real-world phenomena  and finding ways to improve them.<br>
 
 
 ## 🌐 Socials:
